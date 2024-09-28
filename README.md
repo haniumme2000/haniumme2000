@@ -1,6 +1,8 @@
-"Learning, Living, and Leveling up"
+"Learning, Living, and Leveling up."
 
-- 👋 Hi, I’m @haniumme2000
+Hi 👋, I'm Umme Hani
+
+A passionate Software Engineering student from Bangalore, India, dedicated to creating innovative solutions and continuously expanding knowledge in the field of technology.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
